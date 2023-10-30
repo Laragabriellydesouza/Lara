@@ -11,4 +11,4 @@ neves.lara@escola.pr.gov.br
 
 @neves_lara15
 
-![]([image](https://github.com/Laragabriellydesouza/Lara/assets/149430442/eaa398f4-ed9a-4d8f-b7cf-50b4b45bb016)
+![](https://github.com/Laragabriellydesouza/Lara/assets/149430442/eaa398f4-ed9a-4d8f-b7cf-50b4b45bb016)
